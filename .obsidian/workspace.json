@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepten/Idee/Gegevensboekhouding.md",
+                "file": "Concepten/Prototype/Gegevensboekhouding.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,9 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8d7ff5770951e42",
+  "active": "cc26a02251dfc426",
   "lastOpenFiles": [
-    "Concepten/Idee/Gegevensboekhouding.md",
+    "Concepten/End of Life",
+    "Concepten/Live",
+    "Concepten/Beta",
+    "Concepten/Alpha",
+    "Concepten/MVP",
+    "Concepten/PoC",
+    "Concepten/Concept",
+    "Concepten/Untitled.md",
+    "Concepten/Prototype/Gegevensboekhouding.md",
+    "Concepten/Prototype",
     "Concepten/Idee",
     "Concepten"
   ]
