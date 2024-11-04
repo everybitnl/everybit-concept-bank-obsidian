@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepten/Prototype/Gegevensboekhouding.md",
+                "file": "Concepten/Alpha/Concept- en kennisbank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gegevensboekhouding"
+              "title": "Concept- en kennisbank"
             }
           }
         ]
@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc26a02251dfc426",
+  "active": "d8d7ff5770951e42",
   "lastOpenFiles": [
+    "Concepten/Prototype/Gegevensboekhouding.md",
+    "Concepten/Alpha/Concept- en kennisbank.md",
     "Concepten/End of Life",
     "Concepten/Live",
     "Concepten/Beta",
@@ -172,7 +174,6 @@
     "Concepten/PoC",
     "Concepten/Concept",
     "Concepten/Untitled.md",
-    "Concepten/Prototype/Gegevensboekhouding.md",
     "Concepten/Prototype",
     "Concepten/Idee",
     "Concepten"
