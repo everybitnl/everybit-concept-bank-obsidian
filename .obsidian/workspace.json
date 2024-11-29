@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepten/3a. Prototype/Gegevensboekhouding.md",
+                "file": "Concepten/3a-Prototype/Gegevensboekhouding.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,18 +164,18 @@
   },
   "active": "cc26a02251dfc426",
   "lastOpenFiles": [
-    "Concepten/5. Alpha/Concept- en kennisbank.md",
-    "Concepten/3a. Prototype/Gegevensboekhouding.md",
-    "Concepten/8. End of Life",
-    "Concepten/7. Live",
-    "Concepten/6. Beta",
-    "Concepten/5. Alpha",
-    "Concepten/4. MVP",
-    "Concepten/3b. PoC",
-    "Concepten/2. Concept",
+    "Concepten/5-Alpha/Concept- en kennisbank.md",
+    "Concepten/3a-Prototype/Gegevensboekhouding.md",
+    "Concepten/8-End of Life",
+    "Concepten/7-Live",
+    "Concepten/6-Beta",
+    "Concepten/5-Alpha",
+    "Concepten/4-MVP",
+    "Concepten/3b-PoC",
+    "Concepten/2-Concept",
     "Concepten/Untitled.md",
-    "Concepten/3a. Prototype",
-    "Concepten/1. Idee",
+    "Concepten/3a-Prototype",
+    "Concepten/1-Idee",
     "Concepten"
   ]
 }
