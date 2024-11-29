@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepten/3a-Prototype/Gegevensboekhouding.md",
+                "file": "Concepten/1-Idee/Meldingen Stream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gegevensboekhouding"
+              "title": "Meldingen Stream"
             }
           }
         ]
@@ -162,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc26a02251dfc426",
+  "active": "fdf773b86601f5e1",
   "lastOpenFiles": [
-    "Concepten/5-Alpha/Concept- en kennisbank.md",
     "Concepten/3a-Prototype/Gegevensboekhouding.md",
+    "Concepten/1-Idee/Meldingen Stream.md",
+    "Concepten/5-Alpha/Concept- en kennisbank.md",
     "Concepten/8-End of Life",
     "Concepten/7-Live",
     "Concepten/6-Beta",
